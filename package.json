@@ -1,0 +1,37 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "fengzhua blog",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fengzhua/blog.git"
+  },
+  "keywords": [
+    "blog",
+    "study",
+    "javascript"
+  ],
+  "author": "fengzhua",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fengzhua/blog/issues"
+  },
+  "homepage": "https://github.com/fengzhua/blog#readme",
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
+  },
+  "lint-staged": {
+    "**/*.md": [
+      "lint-md"
+    ]
+  },
+  "devDependencies": {
+    "husky": "^3.0.9",
+    "lint-md": "^0.2.0",
+    "lint-md-cli": "^0.1.1",
+    "lint-staged": "^9.4.2"
+  }
+}
