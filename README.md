@@ -4,7 +4,7 @@
 
 > 记录前端学习点滴，喜欢的欢迎 star
 
-> js & es6dfd
+> js & es6
 
 <details>
     <summary>深入浅出 js & es6</summary>
