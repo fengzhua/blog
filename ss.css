@@ -1,0 +1,12 @@
+span[class^=icon]{
+    background: green;
+    color:#fff;
+}
+span[hh$=pdf]{
+    background: orange;
+    color: #fff;
+}
+span[title*=more]{
+    background: blue;
+    color: #fff;
+}

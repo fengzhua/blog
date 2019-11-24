@@ -24,6 +24,8 @@
 <details>
     <summary>css</summary>
     
-- [ ] [flex布局](https://github.com/fengzhua/blog/blob/master/css/flex布局.md)
+- [x] [flex布局](https://github.com/fengzhua/blog/blob/master/css/flex布局.md)
+- [ ] [BFC](https://github.com/fengzhua/blog/blob/master/css/BFC.md)
+- [ ] [CSS3好用的选择器](https://github.com/fengzhua/blog/blob/master/css/.md)
 </details>
 
